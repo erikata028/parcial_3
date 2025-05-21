@@ -1,7 +1,4 @@
-import os
-import json
-import re
-import requests
+import os, json,re,requests
 from collections import defaultdict
 from ipaddress import ip_address, ip_network
 
